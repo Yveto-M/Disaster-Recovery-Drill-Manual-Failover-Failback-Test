@@ -10,7 +10,7 @@
 Before initiating the drill, I verified the DR Vault configuration and ensured replication was healthy.
 
 1.  **DR Configuration Check:** Verified `EnableFailover` and `FailoverMode` settings.
-    > **[PADR Config Check]**
+    > **PADR Config Check**
     > <img width="808" height="198" alt="DR-PADR-check-failover-1" src="https://github.com/user-attachments/assets/310bc8ee-c803-422d-a59a-d79b45f86c31" />
 
 
